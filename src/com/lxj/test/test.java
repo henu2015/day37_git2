@@ -5,5 +5,9 @@ public class test {
         System.out.println("hello");
         //System.out.println("hjdafkdsa");
         int a = 10;
+        System.out.println("hello world");
+        System.out.println("error");
+        System.out.println("success");
+        System.out.println("hahhahey");
     }
 }
